@@ -31,6 +31,7 @@ MITRE ATT&CK: T1190 (Exploit Public-Facing Application).
 * Экранирование спецсимволов (mysqli_real_escape_string).
 
 2. Командная инъекция (Command Injection)
+   
 **Описание:**
 
 > Выполнение произвольных команд ОС через уязвимые параметры веб-приложения, взаимодействующего с БД через shell-скрипты.
