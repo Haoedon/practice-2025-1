@@ -12,6 +12,13 @@
 3. **Проведение практических атак на базы данных**
 
    - SQL injection vulnerability in WHERE clause.
+   - Blind OS command injection with time delays.
+   - Blind OS command injection with output redirection.
+   - SSRF with filter bypass via open redirection vulnerability.
+   - XXE Injection.
+
+4. **Анализ атак и способы защиты от них**.
+
    - 
 
 
